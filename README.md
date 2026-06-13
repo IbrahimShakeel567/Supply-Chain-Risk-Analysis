@@ -2,6 +2,7 @@
 End-to-end supply chain analytics project. Engineered a PostgreSQL backend to ingest and clean global logistics data, and developed an interactive Power BI executive dashboard to analyze transit lead times, weather risks, and carrier reliability.
 
 # Global Supply Chain Risk & Logistics Analytics
+![Global Supply Chain Dashboard](dashboard_screenshot.png)
 
 An end-to-end data analytics project demonstrating data engineering, backend database management, and business intelligence. This project ingests raw, unstructured global logistics data into a relational database, applies rigorous SQL data-cleaning methodologies, and visualizes key operational metrics through an interactive Power BI executive dashboard.
 
